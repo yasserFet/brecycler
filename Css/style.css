@@ -2251,7 +2251,7 @@ input[type="file"] {
 }
 .cards .container .box .image {
   position: absolute;
-  max-width: 100%;
+ width: 100%;
   top: 0;
  height: 50%;
   overflow: hidden;
